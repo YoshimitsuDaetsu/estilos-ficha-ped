@@ -1,0 +1,25 @@
+#img-ficha img {
+    border: 2px solid #daa520;
+}
+
+#body-ficha {
+    width:504px;
+    height:900px;
+    font-family: Sans-serif;
+    text-align:justify;
+}
+
+#links-tab a{
+    display:inline-block;
+    background-color: #daa520;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-decoration: none;
+    padding: 6px;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+#links-tab a:hover {
+    background-color: rgb(177, 27, 27);
+}
